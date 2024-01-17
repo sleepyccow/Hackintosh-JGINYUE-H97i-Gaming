@@ -46,7 +46,9 @@
 
 ### 电源管理、睡眠、休眠 / Power, Sleep and Hibernation
 ✅ 电源管理使用 `SSDT-PLUG-DRTNIA` 即可解决；
+
 ✅ 默认睿频可用；
+
 ⚠️ 关于睡眠和休眠：没有配置，因为台式机用不到。
 <br>
 
